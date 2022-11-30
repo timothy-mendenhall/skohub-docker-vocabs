@@ -3,19 +3,24 @@
   "type": "Concept",
   "prefLabel": {
     "en": "blue",
-    "de": "Blau"
+    "de": "Blau",
+    "es": "azul"
   },
   "altLabel": {
     "en": [
       "azure",
-      "periwinkle"
+      "periwinkle",
+      "turquoise",
+      "cerulean",
+      "cyan"
     ]
   },
   "inScheme": {
     "id": "https://example.org/colour/",
     "title": {
       "en": "Colour Vocabulary",
-      "de": "Farbvokabular"
+      "de": "Farbvokabular",
+      "es": "Vocabulario de colores"
     }
   },
   "topConceptOf": {

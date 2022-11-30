@@ -3,13 +3,20 @@
   "type": "Concept",
   "prefLabel": {
     "en": "red",
-    "de": "Rot"
+    "de": "Rot",
+    "es": "rojo"
+  },
+  "altLabel": {
+    "en": [
+      "rust"
+    ]
   },
   "inScheme": {
     "id": "https://example.org/colour/",
     "title": {
       "en": "Colour Vocabulary",
-      "de": "Farbvokabular"
+      "de": "Farbvokabular",
+      "es": "Vocabulario de colores"
     }
   },
   "topConceptOf": {

@@ -3,13 +3,22 @@
   "type": "Concept",
   "prefLabel": {
     "en": "black",
-    "de": "Schwarz"
+    "de": "Schwarz",
+    "es": "negro"
+  },
+  "altLabel": {
+    "en": [
+      "jet-black",
+      "jet",
+      "key"
+    ]
   },
   "inScheme": {
     "id": "https://example.org/colour/",
     "title": {
       "en": "Colour Vocabulary",
-      "de": "Farbvokabular"
+      "de": "Farbvokabular",
+      "es": "Vocabulario de colores"
     }
   },
   "topConceptOf": {

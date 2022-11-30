@@ -3,13 +3,15 @@
   "type": "Concept",
   "prefLabel": {
     "en": "orange",
-    "de": "Orange"
+    "de": "Orange",
+    "es": "naranjo"
   },
   "inScheme": {
     "id": "https://example.org/colour/",
     "title": {
       "en": "Colour Vocabulary",
-      "de": "Farbvokabular"
+      "de": "Farbvokabular",
+      "es": "Vocabulario de colores"
     }
   },
   "topConceptOf": {

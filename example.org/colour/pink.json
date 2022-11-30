@@ -3,13 +3,20 @@
   "type": "Concept",
   "prefLabel": {
     "en": "pink",
-    "de": "Rosa"
+    "de": "Rosa",
+    "es": "rosado"
+  },
+  "altLabel": {
+    "en": [
+      "magenta"
+    ]
   },
   "inScheme": {
     "id": "https://example.org/colour/",
     "title": {
       "en": "Colour Vocabulary",
-      "de": "Farbvokabular"
+      "de": "Farbvokabular",
+      "es": "Vocabulario de colores"
     }
   },
   "topConceptOf": {

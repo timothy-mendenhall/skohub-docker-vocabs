@@ -3,13 +3,15 @@
   "type": "Concept",
   "prefLabel": {
     "en": "gray",
-    "de": "Grau"
+    "de": "Grau",
+    "es": "gris"
   },
   "inScheme": {
     "id": "https://example.org/colour/",
     "title": {
       "en": "Colour Vocabulary",
-      "de": "Farbvokabular"
+      "de": "Farbvokabular",
+      "es": "Vocabulario de colores"
     }
   },
   "topConceptOf": {

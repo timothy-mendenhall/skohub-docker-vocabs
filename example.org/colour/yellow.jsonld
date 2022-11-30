@@ -3,13 +3,21 @@
   "type": "Concept",
   "prefLabel": {
     "en": "yellow",
-    "de": "Gelb"
+    "de": "Gelb",
+    "es": "amarillo"
+  },
+  "altLabel": {
+    "en": [
+      "gold",
+      "golden"
+    ]
   },
   "inScheme": {
     "id": "https://example.org/colour/",
     "title": {
       "en": "Colour Vocabulary",
-      "de": "Farbvokabular"
+      "de": "Farbvokabular",
+      "es": "Vocabulario de colores"
     }
   },
   "topConceptOf": {

@@ -3,13 +3,20 @@
   "type": "Concept",
   "prefLabel": {
     "en": "white",
-    "de": "Weiss"
+    "de": "Weiss",
+    "es": "blanco"
+  },
+  "altLabel": {
+    "en": [
+      "ivory"
+    ]
   },
   "inScheme": {
     "id": "https://example.org/colour/",
     "title": {
       "en": "Colour Vocabulary",
-      "de": "Farbvokabular"
+      "de": "Farbvokabular",
+      "es": "Vocabulario de colores"
     }
   },
   "topConceptOf": {
