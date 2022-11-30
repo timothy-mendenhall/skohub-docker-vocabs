@@ -1,17 +1,9 @@
 {
-  "id": "https://example.org/colour/violet",
+  "id": "https://example.org/colour/green",
   "type": "Concept",
   "prefLabel": {
-    "en": "purple",
-    "de": "Violett"
-  },
-  "altLabel": {
-    "en": [
-      "violet"
-    ],
-    "de": [
-      "Lila"
-    ]
+    "en": "green",
+    "de": "Grün"
   },
   "inScheme": {
     "id": "https://example.org/colour/",
