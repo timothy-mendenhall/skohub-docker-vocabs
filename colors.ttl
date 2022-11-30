@@ -11,43 +11,48 @@ colour: a skos:ConceptScheme ;
     skos:hasTopConcept colour:purple, colour:blue, colour:yellow, colour:red, colour:black, colour:white, colour:gray, colour:green, colour:orange, colour:pink .
 
 colour:purple a skos:Concept ;
-    skos:prefLabel "Violett"@de, "purple"@en ;
+    skos:prefLabel "Violett"@de, "purple"@en, "morado"@sp ;
     skos:altLabel "Lila"@de, "violet"@en ;
     skos:topConceptOf colour: .
 
 colour:blue a skos:Concept ;
-    skos:prefLabel "Blau"@de, "blue"@en ;
-    skos:altLabel "azure"@en, "periwinkle"@en ;
+    skos:prefLabel "Blau"@de, "blue"@en, "azul"@sp ;
+    skos:altLabel "azure"@en, "periwinkle"@en, "turquoise"@en, "cerulean"@en, "cyan"@en ;
     skos:topConceptOf colour: .
 
 colour:yellow a skos:Concept ;
-    skos:prefLabel "Gelb"@de, "yellow"@en ;
+    skos:prefLabel "Gelb"@de, "yellow"@en, "amarillo"@sp ;
+    skos:altLabel "gold"@en, "golden"@en ;
     skos:topConceptOf colour: .
 
 colour:red a skos:Concept ;
-    skos:prefLabel "Rot"@de, "red"@en ;
+    skos:prefLabel "Rot"@de, "red"@en, "rojo"@sp ;
+    skos:altLabel "rust"@en ;
     skos:topConceptOf colour: .
 
 colour:black a skos:Concept ;
-    skos:prefLabel "Schwarz"@de, "black"@en ;
+    skos:prefLabel "Schwarz"@de, "black"@en, "negro"@sp ;
+    skos:altLabel "jet-black"@en, "jet"@en, "key"@en ;
     skos:topConceptOf colour: .
 
 colour:white a skos:Concept ;
-    skos:prefLabel "Weiss"@de, "white"@en ;
+    skos:prefLabel "Weiss"@de, "white"@en, "blanco"@sp ;
+    skos:prefLabel "ivory"@en ;
     skos:topConceptOf colour: .
 
 colour:gray a skos:Concept ;
-    skos:prefLabel "Grau"@de, "gray"@en ;
+    skos:prefLabel "Grau"@de, "gray"@en, "gris"@sp ;
     skos:topConceptOf colour: .
 
 colour:green a skos:Concept ;
-    skos:prefLabel "Grün"@de, "green"@en ;
+    skos:prefLabel "Grün"@de, "green"@en, "verde"@sp ;
     skos:topConceptOf colour: .
 
 colour:orange a skos:Concept ;
-    skos:prefLabel "Orange"@de, "orange"@en ;
+    skos:prefLabel "Orange"@de, "orange"@en, "naranjo"@sp ;
     skos:topConceptOf colour: .
 
 colour:pink a skos:Concept ;
-    skos:prefLabel "Rosa"@de, "pink"@en ;
+    skos:prefLabel "Rosa"@de, "pink"@en, "rosado"@sp ;
+    skos:altLabel "magenta"@en ;
     skos:topConceptOf colour: .
