@@ -8,9 +8,9 @@ colour: a skos:ConceptScheme ;
     dct:creator "Hans Dampf"@de ;
     dct:created "2021-11-02"^^xsd:date ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    skos:hasTopConcept colour:violet, colour:blue .
+    skos:hasTopConcept colour:purple, colour:blue, colour:yellow, colour:red, colour:black, colour:white, colour:gray, colour:green, colour:orange, colour:pink .
 
-colour:violet a skos:Concept ;
+colour:purple a skos:Concept ;
     skos:prefLabel "Violett"@de, "purple"@en ;
     skos:altLabel "Lila"@de, "violet"@en ;
     skos:topConceptOf colour: .
@@ -18,4 +18,36 @@ colour:violet a skos:Concept ;
 colour:blue a skos:Concept ;
     skos:prefLabel "Blau"@de, "blue"@en ;
     skos:altLabel "azure"@en, "periwinkle"@en ;
+    skos:topConceptOf colour: .
+
+colour:yellow a skos:Concept ;
+    skos:prefLabel "Gelb"@de, "yellow"@en ;
+    skos:topConceptOf colour: .
+
+colour:red a skos:Concept ;
+    skos:prefLabel "Rot"@de, "red"@en ;
+    skos:topConceptOf colour: .
+
+colour:black a skos:Concept ;
+    skos:prefLabel "Schwarz"@de, "black"@en ;
+    skos:topConceptOf colour: .
+
+colour:white a skos:Concept ;
+    skos:prefLabel "Weiss"@de, "white"@en ;
+    skos:topConceptOf colour: .
+
+colour:gray a skos:Concept ;
+    skos:prefLabel "Grau"@de, "gray"@en ;
+    skos:topConceptOf colour: .
+
+colour:green a skos:Concept ;
+    skos:prefLabel "Grün"@de, "green"@en ;
+    skos:topConceptOf colour: .
+
+colour:orange a skos:Concept ;
+    skos:prefLabel "Orange"@de, "orange"@en ;
+    skos:topConceptOf colour: .
+
+colour:pink a skos:Concept ;
+    skos:prefLabel "Rosa"@de, "pink"@en ;
     skos:topConceptOf colour: .
